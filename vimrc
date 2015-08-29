@@ -2,7 +2,6 @@ set nocompatible              " be iMproved, required
 filetype off                  " required
 
 call plug#begin('~/.vim/plugged')
-Plug 'ryanoasis/vim-devicons'
 Plug 'chriskempson/tomorrow-theme', {'rtp': 'vim/'}
 Plug 'https://github.com/scrooloose/nerdtree'
 Plug 'https://github.com/ervandew/supertab'
